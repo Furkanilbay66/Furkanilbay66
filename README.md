@@ -4,10 +4,6 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Furkanilbay66&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
   🚀 Learning by building • Improving by sharing • Growing every day
 </p>
 
@@ -26,9 +22,7 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-</p>
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode)
 
 ---
 
@@ -45,34 +39,19 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Furkanilbay66&show_icons=true&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Furkanilbay66&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Furkanilbay66&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanilbay66&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Furkanilbay66&theme=tokyonight&hide_border=true" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Furkanilbay66&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Furkanilbay66&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Furkanilbay66&theme=tokyonight&no-frame=true)
 
 ---
 
@@ -85,14 +64,8 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 ---
 
 ## 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/furkan-ilbay-214b57329/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:furkanilbay2005@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/furkan-ilbay-214b57329/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:furkanilbay2005@gmail.com)
 
 ---
 
