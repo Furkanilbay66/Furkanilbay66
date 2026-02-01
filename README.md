@@ -54,6 +54,9 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Furkanilbay66&theme=tokyonight&no-frame=true)
 
 ---
+## 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
+
+
 
 ## 🎯 What I'm Currently Working On
 - 🚀 Full-stack web development
