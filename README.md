@@ -7,7 +7,11 @@ Computer Engineering Student | Web Developer | Software Enthusiast
   🚀 Learning by building • Improving by sharing • Growing every day
 </p>
 
-(https://komarev.com/ghpvc/?username=Furkanilbay66&label=Profile%20Views&color=0e75b6&style=flat)![Profile Views]
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Furkanilbay66&label=Profile%20Views&color=0e75b6&style=flat)
+
+</div>
 
 ---
 
