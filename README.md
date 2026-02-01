@@ -8,7 +8,7 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 </p>
 
 <p align="center">
-  🚀 Passionate about building modern, scalable and user-friendly applications
+  🚀 Learning by building • Improving by sharing • Growing every day
 </p>
 
 ---
@@ -16,13 +16,12 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 ## 🚀 About Me
 - 🎓 **Computer Engineering Student**
 - 💻 **Web Developer & Software Engineering Enthusiast**
-- 🌐 Focused on creating **modern, responsive, and clean UI/UX designs**
+- 🌐 Building **modern, responsive, and user-friendly web applications**
 - 🛠️ Strong foundation in **HTML, CSS, JavaScript, Python**
-- 🔧 Comfortable with **Git & GitHub** for version control
-- 🌱 Currently improving **Frontend & Backend Development**
-- 🤖 Interested in **AI-powered systems, automation, and smart applications**
-- 🎯 Goal-oriented, self-motivated, and eager to learn new technologies
-- 📈 Always improving through hands-on projects and continuous learning
+- 🔧 Using **Git & GitHub** for version control and collaboration
+- 🌱 Improving **Frontend & Backend Development**
+- 🤖 Interested in **AI, automation, and smart systems**
+- 🎯 Goal-oriented, self-motivated, and continuously learning
 
 ---
 
@@ -35,31 +34,52 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 
 ## 📌 Featured Projects
 - ⌚ **the-Watch-Site**  
-  Modern, responsive watch showcase website with clean UI design  
+  Modern, responsive watch showcase website  
 
 - 🏨 **the-HotelSite**  
-  Hotel introduction website featuring room details and service sections  
+  Hotel introduction & room information website  
 
 - ☕ **Cafe-QR-APP**  
-  QR-based, mobile-friendly digital cafe menu application  
+  QR-based mobile-friendly cafe menu application  
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Furkanilbay66&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Furkanilbay66&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanilbay66&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Furkanilbay66&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Furkanilbay66&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Furkanilbay66&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
 
 ## 🎯 What I'm Currently Working On
-- 🚀 Improving full-stack development skills
-- 🎨 Building modern UI-focused web projects
-- 🤖 Exploring AI & automation-based applications
+- 🚀 Full-stack web development
+- 🎨 Modern UI/UX-focused projects
+- 🤖 AI & automation-based applications
 - 📚 Strengthening software engineering fundamentals
 
 ---
@@ -77,5 +97,5 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 ---
 
 <p align="center">
-  💡 “Learning by building, improving by sharing.”
+  💡 “Code. Learn. Improve. Repeat.”
 </p>
