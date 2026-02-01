@@ -38,10 +38,7 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Furkanilbay66&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Furkanilbay66&layout=compact&theme=tokyonight)
 
 ---
 
@@ -50,8 +47,7 @@ Computer Engineering Student | Web Developer | Software Enthusiast
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Furkanilbay66&theme=tokyonight&no-frame=true)
+
 
 ---
 ## 🐍 Contribution Snake <p align="center"> <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" /> </p>
