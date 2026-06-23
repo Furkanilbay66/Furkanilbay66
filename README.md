@@ -147,7 +147,43 @@ PID   PROJE                           STACK                  STATUS
 
 <img src="https://komarev.com/ghpvc/?username=Furkanilbay66&label=Profil+Görüntüleme&color=7c3aed&style=flat-square" />
 
-![Snake](https://raw.githubusercontent.com/Furkanilbay66/Furkanilbay66/output/snake.svg)
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Her gün gece yarısı çalışır
+  workflow_dispatch:        # Manuel tetikleme için
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      # 1. Repository'yi klonla
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2. Snake SVG'yi oluştur
+      - name: Generate Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Furkanilbay66
+          outputs: |
+            dist/snake.svg
+            dist/snake-dark.svg?palette=github-dark
+
+      # 3. output branch'ine push et
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 </div>
 
