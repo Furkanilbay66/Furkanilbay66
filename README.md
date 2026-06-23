@@ -162,28 +162,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
-    steps:
-      # 1. Repository'yi klonla
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # 2. Snake SVG'yi oluştur
-      - name: Generate Snake SVG
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: Furkanilbay66
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-
-      # 3. output branch'ine push et
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+   
 
 </div>
 
