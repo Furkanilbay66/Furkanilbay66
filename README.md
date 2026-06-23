@@ -1,39 +1,43 @@
 <div align="center">
+
+  <!-- 🔥 Animasyonlu Ana Başlık 🔥 -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=System.out.println('Merhaba, Ben Furkan İlbay');Full+Stack+Developer+%26+Bilgisayar+Mühendisi;Yapay+Zeka+%26+Computer+Vision+Tutkunu;Sürekli+Öğrenen,+Sürekli+Geliştiren" alt="Typing SVG" />
   
-  <!-- Animasyonlu Başlık Banner'ı (Örneklerdeki gibi neon yeşil tonlarında) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Merhaba!+Ben+Furkan+İlbay;Full+Stack+Web+Geliştirici;React+%26+.NET+Developer;Sürekli+Öğrenen+ve+Paylaşan" alt="Typing SVG" />
+  <br/>
 
-  <!-- Profil İstatistikleri & Özelleştirilmiş Rozetler (image_1af899.png ve image_1af8bd.png tarzı) -->
+  <!-- 🎯 Rozetler (Estetik ve Modern) -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Furkaniibay66&label=PROFIL+GORUNTULENME&color=00FF00&style=for-the-badge" alt="Views" />
-    <img src="https://img.shields.io/github/followers/Furkaniibay66?label=TAKIPCI&style=for-the-badge&color=239120" alt="Followers" />
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/💻-CODE_WIZARD-ff5722?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎨-CREATIVE_DEV-00bcd4?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤖-AI_EXPLORER-ffeb3b?style=for-the-badge&logoColor=black" />
+    <a href="https://linkedin.com/in/furkanilbay"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://furkanilbay.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+    <img src="https://komarev.com/ghpvc/?username=Furkaniibay66&label=Sistem+Ziyareti&color=00FF00&style=for-the-badge" alt="Views" />
   </p>
 
 </div>
 
 ---
 
-## 🚀 Hakkımda (System.json)
+<br/>
 
-> `image_1af8bd.png` görselindeki kod tabanlı ikonlu tanıtım kartından esinlenilmiştir.
+<div align="center">
+  <img src="https://img.shields.io/badge/⚙️-SYSTEM_INITIALIZED-00FF00?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/🧠-AI_INTEGRATED-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/💻-FULL_STACK_DEV-FF4500?style=for-the-badge" />
+</div>
 
-```javascript
-const furkan = {
-  name: "Furkan İlbay",
-  role: "Bilgisayar Mühendisliği Öğrencisi & Full Stack Developer",
-  location: "Türkiye",
-  passions: ["Web Geliştirme 🌐", "Yaypaz Zeka & Bilgisayarlı Görü 🤖", "Sistem Optimizasyonu ⚙️"],
-  currentlyLearning: ["Next.js ⚛️", "Docker 🐳", "Gelişmiş API Tasarımları 🛠️"],
-  funFact: "Kahveyi ☕ temiz, ölçeklenebilir ve çalışan koda dönüştürüyorum!",
-  lifePhilosophy: "Kod yazmak sadece bir iş değil, bir sanattır. 💻✨",
-  openToCollaborate: true,
-  getInTouch: () => "furkanilbay@example.com"
-};
+## 👨‍💻 `> whoami`
 
-console.log(`Welcome to ${furkan.name}'s Profile! 🚀`);
+```json
+{
+  "developer": {
+    "name": "Furkan İlbay",
+    "education": "Bilgisayar Mühendisliği (3. Sınıf) @ Bingöl Üniversitesi",
+    "status": "Temmuz 2026 Stajına Hazırlanıyor 🚀",
+    "core_competencies": ["Full-Stack Architecture", "Database Normalization", "Machine Learning"],
+    "tech_arsenal": {
+      "frontend": ["React", "JavaScript", "Flutter", "Dart"],
+      "backend": ["Spring Boot (Java)", "FastAPI/Flask (Python)", "Express"],
+      "database": ["PostgreSQL", "MySQL", "MSSQL"]
+    },
+    "current_focus": "Yapay zeka modellerini işlevsel uygulamalara entegre etmek."
+  }
+}
